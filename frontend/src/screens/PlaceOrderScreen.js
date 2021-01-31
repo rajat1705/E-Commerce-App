@@ -55,7 +55,7 @@ function PlaceOrderScreen({ history }) {
                       </ListGroup.Item>
 
                       <ListGroup.Item>
-                        <h2>PaymentMethod</h2>
+                        <h2>Payment Method</h2>
                         <strong>Method: </strong>
                         {cart.paymentMethod}
                       </ListGroup.Item>
